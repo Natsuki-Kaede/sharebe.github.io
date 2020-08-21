@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sharebe.github.io</id>
     <title>sharebe&apos;s lab</title>
-    <updated>2020-08-19T11:09:01.799Z</updated>
+    <updated>2020-08-21T01:40:12.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sharebe.github.io"/>
     <link rel="self" href="https://sharebe.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>自强不息，厚德载物</subtitle>
     <logo>https://sharebe.github.io/images/avatar.png</logo>
     <icon>https://sharebe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, sharebe&apos;s lab</rights>
